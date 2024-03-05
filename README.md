@@ -10,7 +10,7 @@ I am a graduate with bachelor’s degree in business administration and have 5+ 
 * 🖥️  See my portfolio at [My Website : Vihangi Data Analyst](http://Vihangi Data Analyst (google.com))
 * ✉️  You can contact me at [vihngi1925@gmail.com](mailto:vihngi1925@gmail.com)
 * 🚀  I'm currently working on [Data visualisation projects](http://Vihangi Data Analyst (google.com))
-* 🧠  I'm learning I'm learning statistical techniques and software tools to identify trends, patterns and relationships within the data.
+* 🧠  I'm learning statistical techniques and software tools to identify trends, patterns and relationships within the data.
 * 🤝  I'm open to collaborating on Power Bi and Tableau visualisation projects
 * ⚡  I build INFLUASIVE data visuals.
 
